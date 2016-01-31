@@ -1,0 +1,1 @@
+C:\Users\Stefa\Documents\GitHub\HamburgerTemplateUWP\HamburgerTemplate\HamburgerTemplate\HamburgerTemplate.csproj;x86
